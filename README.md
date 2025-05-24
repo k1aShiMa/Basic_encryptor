@@ -1,2 +1,2 @@
 # Basic_encryptor
-basically encrypts texts and then you can decrypt it
+basically encrypts texts into a file
